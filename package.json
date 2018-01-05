@@ -1,0 +1,22 @@
+{
+  "name": "newman-reporter-winston",
+  "version": "1.0.0",
+  "description": "A newman reporter that logs test results using winston",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mgutjahr/newman-reporter-winston.git"
+  },
+  "author": "Manuel Gutjahr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mgutjahr/newman-reporter-winston/issues"
+  },
+  "homepage": "https://github.com/Mgutjahr/newman-reporter-winston#readme",
+  "dependencies": {
+    "winston": "^2.4.0"
+  }
+}
